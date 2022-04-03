@@ -6,7 +6,7 @@ import Logo from '../../asstes/download.webp';
 
 const Navbar = () => {
     return (
-        <nav className='flex items-center justify-around h-20'>
+        <nav className='flex items-center justify-around h-20 sticky top-0 bg-white shadow'>
             <div className="logo">
                 <Link to='/'>
                     <img src={Logo} alt="" />
