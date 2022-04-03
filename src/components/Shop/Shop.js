@@ -10,7 +10,7 @@ import Payments from '../Payments/Payments';
 const Shop = () => {
     return (
         <div>
-            <div className='bg-[#F0F0F2] h-[88vh]'>
+            <div className='mt-10'>
                 <h1 className='text-6xl font-bold text-center text-[#0B1C39]'>Watch Shop</h1>
             </div>
 
